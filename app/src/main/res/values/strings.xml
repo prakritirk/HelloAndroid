@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hello Android</string>
+    <string name="www_udacity_com">www.udacity.com</string>
+</resources>
